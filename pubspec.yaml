@@ -1,2 +1,6 @@
 name: enough_mail
 version: 3.0.0
+
+environment:
+  sdk: '>=2.17.0 <4.0.0'
+
